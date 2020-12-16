@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Neil Andre Tongco",
+      "email": "neilt@magenic.com",
+      "phone": "6025559876",
+      "company": "dsada",
+      "position": "das",
+      "age": "99",
+      "birthDate": "2020-12-14"
+    },
+    {
+      "id": 4,
+      "name": "JEz Reel",
+      "email": "j@m.com",
+      "phone": "6025559876",
+      "company": "magenic",
+      "position": "aa",
+      "age": "1",
+      "birthDate": "2020-12-13"
+    },
+    {
+      "id": 5,
+      "name": "ds",
+      "email": "n.t@com",
+      "phone": "6025559876",
+      "company": "dsa",
+      "position": "dsa",
+      "age": "9",
+      "birthDate": "2020-12-06"
+    },
+    {
+      "id": 6,
+      "name": "Aaron FloresQQQQQQQQXXXX",
+      "email": "nee.dds@c",
+      "phone": "6025559876",
+      "company": "dsds",
+      "position": "sfds",
+      "age": "9",
+      "birthDate": "2020-12-15"
+    }
+  ]
+}
